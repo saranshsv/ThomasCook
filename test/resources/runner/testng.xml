@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="ThomasCookSuite">
+
+  <test name="Search Holiday Package">
+		<classes>
+			<class name="testcases.SearchPackagesTest" />
+		</classes>
+	</test>
+ <!-- Test -->
+</suite> <!-- ThomasCookSuite -->
